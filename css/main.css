@@ -1,0 +1,11 @@
+.country li {
+  display: inline-block;
+  padding-right: 5px;
+}
+
+#tplnk li{
+  display: inline-flex;
+  padding: 10px;
+  float: right;
+
+}
