@@ -14,10 +14,17 @@
 }
 h2{
   text-align: center;
-  
+
 }
 
 
 #fbm li{
   list-style: none;
+}
+H5{
+  text-align: center;
+}
+.bta{
+  color: red;
+  text-align: center;
 }
