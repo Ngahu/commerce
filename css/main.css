@@ -25,6 +25,7 @@ H5{
   text-align: center;
 }
 .bta{
-  color: red;
   text-align: center;
+  padding-bottom: 10px;
+  border-bottom-style: solid;
 }
