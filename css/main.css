@@ -12,6 +12,12 @@
 #galler li{
   display: inline-block;
 }
-#prds{
-  ;
+h2{
+  text-align: center;
+  
+}
+
+
+#fbm li{
+  list-style: none;
 }
