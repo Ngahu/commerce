@@ -9,3 +9,6 @@
   float: right;
 
 }
+#galler li{
+  display: inline-block; 
+}
